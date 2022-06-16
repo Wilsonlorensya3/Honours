@@ -17,10 +17,10 @@ pre computed $\mu$ grid and nu grid are given in variable <br />
 `lambda` to obtain parameter lambda <br />
 `logLambda` to obtain log of parameter lambda <br />
 <!---
-`compvar` to obtain .... <br />
-`compvarlogfactorialy` to obtain ... <br />
-`compmeanlogfactorialy` to obtain ... <br />
-`compmeanylogfactorialy` to obtain <br />
+`compvar` to obtain variance of X <br />
+`compvarlogfactorialy` to obtain variance of log(X!) <br />
+`compmeanlogfactorialy` to obtain mean of log(X!) <br />
+`compmeanylogfactorialy` to obtain mean of X log(X!) <br />
 --->
 ## Functions and Variable definitions:
  `exact` is for obtaining logLambda from the original `mpcmp` package <br />
