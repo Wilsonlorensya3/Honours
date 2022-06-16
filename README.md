@@ -1,18 +1,18 @@
 # Honours
-Coding used for Honours project
+Coding used for Honours project <br />
 All code is written in R , and any notations, jargons used are referred to the original thesis PDF
 
 
-.Rdata description:
+# .Rdata description:
 
 Note: <br />
 save the grid and functions with name convention: Grid_and_Functions.RData <br />
 
-Grids: <br />
+# Grids: <br />
 pre computed mu grid and nu grid are given in variable <br />
 `mu.grid` and `nu.grid` give the combinations of mu and nu to be calculated for parameter of interest <br />
 
-calculated parameter of interest on the above mu and nu grid:
+## calculated parameter of interest on the above mu and nu grid: <br />
 `logZ` to obtain log of normalization constant Z <br />
 `lambda` to obtain parameter lambda <br />
 `logLambda` to obtain log of parameter lambda <br />
@@ -21,7 +21,7 @@ calculated parameter of interest on the above mu and nu grid:
 `compmeanlogfactorialy` to obtain ... <br />
 `compmeanylogfactorialy` to obtain <br />
 
-Functions and Variable definitions:
+## Functions and Variable definitions:
  `exact` is for doing obtaining logLambda from the original `mpcmp` package <br />
  `interp` is for doing interpolation for logLambda <br />
  `extrap.mu` is for doing extrapolating mu, but interpolating nu for logLambda <br />
@@ -46,7 +46,6 @@ Functions and Variable definitions:
  `get_logZ_v4Mar` is Method 3 for obtaining log Z <br />
  `get_logLambda_v3Mar` is Method 4 for obtaining log lambda <br />
  `get_logZ_v3Mar` is Method 4 for obtaining log Z # DOUBLE CHECK <br />
-
 
 
  `dcomp.fast` is Method a) for obtaining pmf <br />
