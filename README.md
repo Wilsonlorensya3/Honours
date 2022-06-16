@@ -10,7 +10,7 @@ save the grid and functions with name convention: Grid_and_Functions.RData
 
 Grids:
 pre computed mu grid and nu grid are given in variable
-'mu.grid' and 'nu.grid' give the combinations of mu and nu to be calculated for parameter of interest
+`mu.grid` and 'nu.grid' give the combinations of mu and nu to be calculated for parameter of interest
 
 calculated parameter of interest on the above mu and nu grid:
 'logZ' to obtain log of normalization constant Z
