@@ -16,11 +16,12 @@ pre computed $\mu$ grid and nu grid are given in variable <br />
 `logZ` to obtain log of normalization constant Z <br />
 `lambda` to obtain parameter lambda <br />
 `logLambda` to obtain log of parameter lambda <br />
+<!---
 `compvar` to obtain .... <br />
 `compvarlogfactorialy` to obtain ... <br />
 `compmeanlogfactorialy` to obtain ... <br />
 `compmeanylogfactorialy` to obtain <br />
-
+--->
 ## Functions and Variable definitions:
  `exact` is for doing obtaining logLambda from the original `mpcmp` package <br />
  `interp` is for doing interpolation for logLambda <br />
