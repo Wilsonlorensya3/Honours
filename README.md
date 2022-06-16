@@ -1,14 +1,14 @@
 # Honours
 Coding used for Honours project
-All code is written in R 
+All code is written in R , and any notations, jargons used are referred to the original thesis PDF
 
 
 .Rdata description:
 
-Note:
-save the grid and functions with name convention: Grid_and_Functions.RData
+Note: <br />
+save the grid and functions with name convention: Grid_and_Functions.RData <br />
 
-Grids:
+Grids: <br />
 pre computed mu grid and nu grid are given in variable <br />
 `mu.grid` and `nu.grid` give the combinations of mu and nu to be calculated for parameter of interest <br />
 
