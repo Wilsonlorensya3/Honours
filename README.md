@@ -51,6 +51,9 @@ pre computed $\mu$ grid and nu grid are given in variable <br />
  `dcomp.fast4` is Method c) for obtaining pmf <br />
  `dcomp.fast5` is Method d) for obtaining pmf <br />
 
+# CD4_and_Warpbreaks.R Description:
+R file to show underdispersion and overdispersion case for Chapter 1
+
 # Time_comparison.R Description:
 R file to create plots for Chapter 3 and Chapter 4 of the original thesis PDF
 
