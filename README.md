@@ -23,15 +23,15 @@ pre computed $\mu$ grid and nu grid are given in variable <br />
 `compmeanylogfactorialy` to obtain <br />
 --->
 ## Functions and Variable definitions:
- `exact` is for doing obtaining logLambda from the original `mpcmp` package <br />
+ `exact` is for obtaining logLambda from the original `mpcmp` package <br />
  `interp` is for doing interpolation for logLambda <br />
  `extrap.mu` is for doing extrapolating mu, but interpolating nu for logLambda <br />
  `extrap.nu` is for doing extrapolating nu, but interpolating mu for logLambda <br />
  `extrap.both` is for doing extrapolating both mu and nu for logLambda <br />
  `interp_extrap` is for doing either interpolation or extrapolation for both mu and/or nu depending on its values and position in the grid for logLambda <br />
 
- `exact2` is for doing obtaining logZ from the original `mpcmp` package using mu as input <br />
- `exact3` is for doing obtaining logZ from the original `mpcmp` package using logLambda as input <br />
+ `exact2` is for obtaining logZ from the original `mpcmp` package using mu as input <br />
+ `exact3` is for obtaining logZ from the original `mpcmp` package using logLambda as input <br />
  `interp2` is for doing interpolation for logZ <br />
  `extrap.mu2` is for doing extrapolating mu, but interpolating nu for logZ <br />
  `extrap.nu2` is for doing extrapolating nu, but interpolating mu for logZ <br />
