@@ -3,10 +3,7 @@ Coding used for Honours project <br />
 All code is written in R , and any notations, jargons used are referred to the original thesis PDF
 
 
-# .Rdata Description:
-
-Note: <br />
-save the grid and functions with name convention: Grid_and_Functions.RData <br />
+# Grid_and_Functions.Rdata Description:
 
 ## Grid: <br />
 pre computed $\mu$ grid and nu grid are given in variable <br />
@@ -53,3 +50,9 @@ pre computed $\mu$ grid and nu grid are given in variable <br />
  `dcomp.fast2` is Method b) for obtaining pmf <br />
  `dcomp.fast4` is Method c) for obtaining pmf <br />
  `dcomp.fast5` is Method d) for obtaining pmf <br />
+
+# Time_comparison.R Description:
+R file to create plots for Chapter 3 and Chapter 4 of the original thesis PDF
+
+# Bayesian MH-MCMC Application.R Description:
+R file to simulate Bayesian framework MH-MCMC for Chapter 4 of the original thesis PDF
