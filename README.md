@@ -53,6 +53,9 @@ pre computed μ grid and ν grid are given in variables: <br />
 # CD4_and_Warpbreaks.R Description:
 R file to show underdispersion and overdispersion case for Chapter 1
 
+# interp_extrap_justification.R Description:
+R file to show tables / plots created for Chapter 2
+
 # Time_comparison.R Description:
 R file to create plots for Chapter 3 and Chapter 4 of the original thesis PDF
 
