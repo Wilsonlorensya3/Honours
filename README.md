@@ -56,5 +56,8 @@ R file to show underdispersion and overdispersion case for Chapter 1
 # Time_comparison.R Description:
 R file to create plots for Chapter 3 and Chapter 4 of the original thesis PDF
 
+# Accuracy_comparison.R Description:
+R file to create tables for Chapter 3 (also shown in Appendix) of the original thesis PDF
+
 # Bayesian MH-MCMC Application.R Description:
 R file to simulate Bayesian framework MH-MCMC for Chapter 4 of the original thesis PDF
