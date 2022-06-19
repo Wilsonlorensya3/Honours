@@ -38,8 +38,8 @@ pre computed $\mu$ grid and nu grid are given in variable <br />
 
  `get_logLambda_v23Feb` is Method 1 for obtaining log lambda <br />
  `get_logZ_v23Feb` is Method 1 for obtaining log Z <br />
- `vec_get_logLambda` is Method 2 for obtaining log lambda # DOUBLE CHECK <br />
- `vec_get_logZ` is Method 2 for obtaining log Z # DOUBLE CHECK <br />
+ `vec_get_logLambda` is Method 2 for obtaining log lambda  <br />
+ `vec_get_logZ` is Method 2 for obtaining log Z  <br />
  `get_logLambda_v4Mar` is Method 3 for obtaining log lambda <br />
  `get_logZ_v4Mar` is Method 3 for obtaining log Z <br />
  `get_logLambda_v3Mar` is Method 4 for obtaining log lambda <br />
