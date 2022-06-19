@@ -43,7 +43,7 @@ pre computed $\mu$ grid and nu grid are given in variable <br />
  `get_logLambda_v4Mar` is Method 3 for obtaining log lambda <br />
  `get_logZ_v4Mar` is Method 3 for obtaining log Z <br />
  `get_logLambda_v3Mar` is Method 4 for obtaining log lambda <br />
- `get_logZ_v3Mar` is Method 4 for obtaining log Z # DOUBLE CHECK <br />
+ `get_logZ_v3Mar` is Method 4 for obtaining log Z <br />
 
 
  `dcomp.fast` is Method a) for obtaining pmf <br />
