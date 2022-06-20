@@ -1,4 +1,5 @@
 # testing accuracies for Table in Chapter 3 for logLambda
+load("Grid_and_Functions.RData")
 # log Lambda test - testing about 200 points ------------------------------------------------------
 interp_Accuracy_exact = exact(seq(1.5,99.5,by=0.5),seq(1.5,99.5,by=0.5),summax = 1000)
 interp_Accuracy_getlogLambda =interp(seq(1.5,99.5,by=0.5),seq(1.5,99.5,by=0.5))
