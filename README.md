@@ -3,7 +3,7 @@ This github page contains coding used for my Honours project <br />
 All code is written in R , and any notations, jargons used need to refer to the original thesis PDF
 
 # Grid_and_Functions.Rdata Description:  <br />
-Please load the Rdata file before running the other R scripts due to some functions used as described below:
+Please load the Rdata file before running the other R scripts due to some functions used as described below
 
 ## Grid: <br />
 pre computed μ grid and ν grid are given in variables: <br />
