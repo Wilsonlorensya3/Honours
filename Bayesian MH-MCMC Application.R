@@ -1,7 +1,7 @@
 # Load Libraries ----------------------------------------------------------
 
 # load the grid and functions to be used
-load(".../Grid_and_Functions.RData")
+load("Grid_and_Functions.RData")
 library(mpcmp)
 library(mvtnorm)
 require(foreign)
