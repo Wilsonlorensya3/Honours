@@ -1,6 +1,6 @@
 # Honours
 This github page contains coding used for my Honours project <br />
-All code is written in R , and any notations, jargons used need to refer to the original thesis PDF
+All code is written in R , and any notations, jargons used need to refer to the original thesis PDF: `Wilson_Lorensyah_44838711_MATH6020_Thesis_Final_Submission.pdf`
 
 # Grid_and_Functions.Rdata Description:  <br />
 Please load the Rdata file before running the other R scripts due to some functions used as described below
